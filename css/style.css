@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+
+
+body {
+    background-color: #aaff80;
+    background-image: url("../images/spices.jpg");
+}
+
+#sofrito {
+    color:black;
+    text-align: center;
+    border: 2px dashed blue;
+    width: 50%;
+    margin: auto;
+    background-color: #aaff80;
+}
+#recipe{
+    color:black;
+    text-align:center;
+    border: dashed red;
+    width: 50%;
+    margin: auto;
+    background-color: #aaff80;
+}
+#arroz_con_pollo{
+    color: black;
+    text-align: center;
+    border: dashed orange;
+    width: 50%;
+    margin: auto;
+    background-color: #aaff80;
+}
+
+h1 {
+    font-family: 'Bitter', serif;
+}
+
+/* change the color of the hyperlink. */
+#nav a:link{
+    color: red;
+    
+}
+#nav a:visited{
+    color: green;
+    
+}    
+#nav a:hover{
+    color: black;
+    
+}    
+#nav a:active{
+    color: blue;
+    
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+} 
